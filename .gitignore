@@ -1,0 +1,24 @@
+﻿## Build results
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio
+.vs/
+*.VC.db
+*.vscode/
+
+## Others
+*.log
+*.DS_Store
+*.exe
+*.dll
+*.pdb
+
+## NuGet
+*.nupkg
+packages/
+
